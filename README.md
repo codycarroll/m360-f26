@@ -111,3 +111,34 @@ You have **7 days** after a graded assignment is returned to contest a grade. Af
 | 97+ | 93+ | 90+ | 87+ | 83+ | 80+ | 77+ | 73+ | 70+ | 67+ | 63+ | 60+ | <60 |
 
 *Grading scheme and cutoffs are approximate. The instructor reserves the right to adjust the grading scheme and to raise or lower any grade cutoffs; final decisions will not be made until all assignments have been turned in and graded.*
+
+## On Cheating
+
+As a Jesuit institution committed to *cura personalis*---the care and education of the whole person---the University of San Francisco has an obligation to embody and foster the values of honesty and integrity. The university upholds standards of honesty and integrity from all members of the academic community, including faculty, students, and staff. All students are expected to know and to adhere to the university's honor code. You can find the full text of the code online [here](http://www.usfca.edu/catalog/policies/honor/). Refer to the Homework section above for details regarding student collaboration. Plagiarism consists of copying *any* material from *any* source and submitting it as your own original work, regardless of where that material was sourced: the Internet, a book, textbook, or from deliverables previously submitted by other students. All students involved in any cheating or plagiarized deliverables, i.e., the cheater as well as the person(s) who willfully enabled or facilitated the act of cheating, will be reported through the university's academic integrity process. If you ever have questions about what constitutes plagiarism, cheating, or academic dishonesty in this course, I am happy to discuss these topics with you.
+
+## On Disability
+
+If you are a student with a disability or disabling condition, or if you think you may have a disability, please contact USF Student Disability Services (SDS) at 415.422.2613 within the first week of class, or immediately upon onset of the disability, to speak with a disability specialist. If you are determined eligible for reasonable accommodations, please meet with your disability specialist so they can arrange to have your accommodation letter sent to me, and we will discuss your needs for this course. For more information, please visit [this link](http://www.usfca.edu/sds/) or call 415.422.2613. **Accommodations are not retroactive.**
+
+## On Behavioral Expectations
+
+All students are expected to behave in accordance with the Student Conduct Code and University policies (see [here](http://www.usfca.edu/fogcutter/)). Open discussion and disagreement is encouraged when done respectfully and in the spirit of academic discourse. There are also a variety of behaviors that, while not against a specific University policy, may create disruption in this course. Students whose behavior is disruptive or who fail to comply with the instructor may be dismissed from the class for the remainder of the class period and may need to meet with the instructor or Dean prior to returning to the next class period. If necessary, referrals may also be made to the Student Conduct process for violations of the Student Conduct Code.
+
+## On Illnesses and Emergencies
+
+If you fall ill or have an emergency (personal or otherwise) that significantly affects your ability to complete an assignment or take an exam, you must notify the instructor before the task is due. Do not simply skip an exam or an assignment and say you were sick after the fact. Always make arrangements with the instructor beforehand, rather than declaring illness or emergency later. **Accommodations are not retroactive.** Illness and emergency related situations must be disclosed to the instructor in writing. Illness-related issues must be accompanied by a doctor's note.
+
+## On the Learning & Writing Center
+
+The Learning & Writing Center provides assistance to all USF students in pursuit of academic success. Peer tutors provide regular review and practice of course materials in the subjects of Math, Science, Business, Economics, Nursing and Languages. Other content areas can be made available by student request. To schedule an appointment, log on to TutorTrac [here](https://tutortrac.usfca.edu). Students may also take advantage of writing support provided by Rhetoric and Language Department instructors and academic study skills support provided by Learning Center professional staff. For more information about these services contact the Learning & Writing Center at 415.422.6713, lwc /at/ usfca /dot/ edu, or stop by Cowell 215. Information may also be found [here](https://www.usfca.edu/lwc).
+
+## On Counseling and Psychological Services
+
+Our diverse staff offers individual, couple, and group counseling to student members of our community. Services are confidential and free of charge. Call 415.422.6352 for an initial consultation appointment. Telephone consultation after hours is available between the hours of 5:00 PM to 8:30 AM; call the above number and press 2.
+
+## On Confidentiality, Mandatory Reporting, and Sexual Assault
+
+As an instructor, one of my responsibilities is to help create a safe learning environment on our campus. I also have a mandatory reporting responsibility related to my role as a faculty member. I am required to share information regarding sexual misconduct or information about a crime that may have occurred on USF's campus with the University. Here are other resources:
+- To report any sexual misconduct, students may visit the Office of Student Conduct, Rights and Responsibilities (UC 5th floor, 415.422.5330) or see other options by visiting the [reporting website](https://myusf.usfca.edu/public-safety-transportation/sexual-assault-reporting).
+- Students may speak to someone confidentially, or report a sexual assault confidentially, by contacting Counseling and Psychological Services at 415.422.6352.
+- For an off-campus resource, contact San Francisco Women Against Rape at 415.647.7273 or [www.sfwar.org](https://www.sfwar.org).
