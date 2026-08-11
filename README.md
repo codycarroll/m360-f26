@@ -106,9 +106,9 @@ You have **7 days** after a graded assignment is returned to contest a grade. Af
 
 **Course Grade Cutoffs**
 
-| A+ | A | A- | B+ | B | B- | C+ | C | C- | D+ | D | D- | F |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 97+ | 93+ | 90+ | 87+ | 83+ | 80+ | 77+ | 73+ | 70+ | 67+ | 63+ | 60+ | <60 |
+| A+ | A | A- | B+ | B | B- | C+ | C | C- | F |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 97+ | 93+ | 90+ | 87+ | 83+ | 80+ | 77+ | 73+ | 70+ | <70 |
 
 *Grading scheme and cutoffs are approximate. The instructor reserves the right to adjust the grading scheme and to raise or lower any grade cutoffs; final decisions will not be made until all assignments have been turned in and graded.*
 
