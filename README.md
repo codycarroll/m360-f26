@@ -37,6 +37,33 @@ One optional supplement, keyed by chapter to the schedule below:
 |Week 16| 12/7-12/9 | Catch-up; course wrap-up & final exam review | - | Last day of classes Wed 12/9 |
 |Finals| Mon 12/14 | **Final Exam** (cumulative) | - | 10:00a-12:00p |
 
+## Course Learning Outcomes
+
+By the end of this course, students will be able to:
+- Convert descriptions of real-world engineering situations with uncertainty into probability models, and compute with conditional probability, Bayes' rule, and independence.
+- Work with discrete and continuous random variables via mass/density functions and distribution functions, and summarize them with expectation, variance, and quantiles.
+- Recognize when a named distribution (binomial, geometric, Poisson, exponential, normal, ...) models a physical situation, and compute probabilities from it, including with tables.
+- Use joint distributions, covariance, and correlation to describe how two quantities vary together, and compute the mean and variance of sums and linear combinations.
+- State and apply the Central Limit Theorem to sums and averages, and explain what it does and does not claim.
+- Estimate model parameters by the method of moments and maximum likelihood, and assess estimators via bias, standard error, and mean squared error.
+- Construct and correctly interpret confidence intervals, and carry out one- and two-sample hypothesis tests, including the errors, power, and p-value logic behind them.
+- Analyze categorical data with chi-square goodness-of-fit and independence tests.
+- Fit, assess, and interpret simple and multiple linear regression models, and use logistic regression for binary responses.
+
+## Course Content
+
+The course is a single-semester path from probability to applied statistics for engineers. Topics include:
+- Sample Spaces, Events, Axioms of Probability, and Counting
+- Conditional Probability, Bayes' Rule, and Independence
+- Random Variables: Distribution Functions, Densities, Expectation, Variance, and Quantiles
+- Named Distributions (Binomial, Geometric, Poisson, Uniform, Exponential, Gamma, Normal, Chi-Squared, F)
+- Joint Distributions, Covariance, and Correlation
+- Sums of Random Variables, Sampling Distributions, and the Central Limit Theorem
+- Point Estimation: Method of Moments, Maximum Likelihood, Bias and Standard Error
+- Confidence Intervals and Hypothesis Tests (one- and two-sample)
+- Chi-Square Tests: Goodness of Fit and Independence
+- Simple and Multiple Linear Regression; Logistic Regression and Classification
+
 ## Course Tenets:
 
 When in doubt, rely on the following:
@@ -47,4 +74,40 @@ When in doubt, rely on the following:
 - Use common sense whenever possible.
 
 ## Course Website
-The class will be using Canvas & Github to distribute all resources. See the course syllabus on Canvas for policies on homework, exams, participation, and grading.
+The class will be using Canvas & Github to distribute all resources. The full syllabus is posted on Canvas; the most important policies are summarized below.
+
+## Grading
+
+Your grade in this course will be computed according to the following weights:
+
+**Homework: 20%**
+
+- There will be regular problem sets, roughly weekly, due at the beginning of class. Due dates will be announced in class and posted on Canvas.
+- Students are encouraged to discuss and work together on assignments, but each student must turn in their own original work. **If there is evidence that the work turned in is not original work, which includes copying another student's homework or using any solutions found online, all credit for that homework set will be forfeited. Homework is not to be posted to online help sites. These sites will be checked frequently.**
+- _No late homework will be accepted._
+
+**Midterm Exams: 30% (15% each)**
+
+- Two midterm exams, tentatively scheduled for **Friday 10/2** and **Monday 11/9**. Coverage of each midterm will be announced in class in advance of the exam.
+- Exams are closed-book. The course formula and table packet is provided with every exam; no other notes are permitted. A basic (non-graphing) calculator is required.
+- No make-up or early exams will be given in order to ensure fairness and integrity of the class. Missing an exam without proper documentation of a personal illness or family emergency will result in a score of zero for that exam. Any documentation must be submitted to the instructor before the exam in question at the earliest possible date.
+
+**Final Exam: 30%**
+
+- A **cumulative final exam** on **Monday, December 14, 10:00a-12:00p**. The same closed-book, packet-and-calculator rules apply.
+
+**In-Class Participation: 20%**
+
+- Every 4 weeks you will receive an assessment of your engagement and participation in class, scored on a 0-5 rubric. Full marks reflect consistent attendance, participating in class activities, offering questions and answers during lecture and at the board, attending office hours, and working with classmates outside of class.
+
+**Regrade Policy**
+
+You have **7 days** after a graded assignment is returned to contest a grade. After this time, the item may not be considered. If the 7-day period extends beyond the final exam date, the grade must be contested before the final exam.
+
+**Course Grade Cutoffs**
+
+| A+ | A | A- | B+ | B | B- | C+ | C | C- | D+ | D | D- | F |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 97+ | 93+ | 90+ | 87+ | 83+ | 80+ | 77+ | 73+ | 70+ | 67+ | 63+ | 60+ | <60 |
+
+*Grading scheme and cutoffs are approximate. The instructor reserves the right to adjust the grading scheme and to raise or lower any grade cutoffs; final decisions will not be made until all assignments have been turned in and graded.*
