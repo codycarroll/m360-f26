@@ -24,10 +24,10 @@ One optional supplement, keyed by chapter to the schedule below:
 |Week 3| 9/9-9/11 | Bayes' theorem; independent events; random variables, p.m.f. and c.d.f. | Ch. 2-3 | No class Mon 9/7 (Labor Day) |
 |Week 4| 9/14-9/18 | Continuous random variables; expectation, variance, and quantiles; the binomial, geometric, and Poisson distributions | Ch. 3-5 |  |
 |Week 5| 9/21-9/25 | The normal distribution and standardization; the gamma and exponential distributions; chi-square and the F distribution | Ch. 6, 8 |  |
-|Week 6| 9/28-10/2 | The uniform distribution; catch-up & exam review | Ch. 6 | **Midterm Exam 1: Fri 10/2** |
-|Week 7| 10/5-10/9 | Joint, marginal, and conditional distributions; conditional expectation; correlation, independence, and the variance of a sum | Ch. 3-4 |  |
-|Week 8| 10/12-10/16 | Random samples and sums; the law of large numbers and the CLT; simulation; statistical models and the method of moments | Ch. 8-9 |  |
-|Week 9| 10/21-10/23 | Maximum likelihood; bias, variance, and mean squared error | Ch. 9 | No class Mon 10/19 (Fall Break) |
+|Week 6| 9/28-10/2 | The uniform distribution; catch-up; joint distributions: joint p.d.f.s and marginal distributions | Ch. 6, 3 |  |
+|Week 7| 10/5-10/9 | Conditional distributions and conditional expectation; correlation, independence, and the variance of a sum | Ch. 3-4 | Catch-up & exam review Fri 10/9 |
+|Week 8| 10/12-10/16 | Random samples and sums; the law of large numbers and the CLT; simulation | Ch. 8 | **Midterm Exam 1: Mon 10/12** |
+|Week 9| 10/21-10/23 | Statistical models and the method of moments; maximum likelihood; bias, variance, and mean squared error | Ch. 9 | No class Mon 10/19 (Fall Break) |
 |Week 10| 10/26-10/30 | Confidence intervals: z- and t-intervals, proportions, two-sample intervals, and sample-size planning | Ch. 9 |  |
 |Week 11| 11/2-11/6 | Hypothesis testing: the logic of a test, test statistics and p-values, power; two-sample t-tests (pooled, Welch, and paired) | Ch. 10 |  |
 |Week 12| 11/9-11/13 | Categorical data: the chi-square goodness-of-fit and independence tests; choosing a test | Ch. 10 | **Midterm Exam 2: Mon 11/9** |
@@ -88,7 +88,7 @@ Your grade in this course will be computed according to the following weights:
 
 **Midterm Exams: 30% (15% each)**
 
-- Two midterm exams, tentatively scheduled for **Friday 10/2** and **Monday 11/9**. Coverage of each midterm will be announced in class in advance of the exam.
+- Two midterm exams, tentatively scheduled for **Monday 10/12** and **Monday 11/9**. Coverage of each midterm will be announced in class in advance of the exam.
 - Exams are closed-book. The course formula and table packet is provided with every exam; no other notes are permitted. A basic (non-graphing) calculator is required.
 - No make-up or early exams will be given in order to ensure fairness and integrity of the class. Missing an exam without proper documentation of a personal illness or family emergency will result in a score of zero for that exam. Any documentation must be submitted to the instructor before the exam in question at the earliest possible date.
 
