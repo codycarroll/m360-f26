@@ -86,13 +86,13 @@ Your grade in this course will be computed according to the following weights:
 - Students are encouraged to discuss and work together on assignments, but each student must turn in their own original work. **If there is evidence that the work turned in is not original work, which includes copying another student's homework or using any solutions found online, all credit for that homework set will be forfeited. Homework is not to be posted to online help sites. These sites will be checked frequently.**
 - _No late homework will be accepted._
 
-**Midterm Exams: 30% (15% each)**
+**Midterm Exams: 40% (20% each)**
 
 - Two midterm exams, tentatively scheduled for **Monday 10/12** and **Monday 11/9**. Coverage of each midterm will be announced in class in advance of the exam.
-- Midterm exams are closed-book. The course formula and table packet is provided with every exam; no other notes are permitted. A basic (non-graphing) calculator is required.
+- Midterm exams are closed-book. The course formula and table packet is provided with every exam; no other notes are permitted.
 - No make-up or early exams will be given in order to ensure fairness and integrity of the class. Missing an exam without proper documentation of a personal illness or family emergency will result in a score of zero for that exam. Any documentation must be submitted to the instructor before the exam in question at the earliest possible date.
 
-**Final Project: 30%**
+**Final Project: 20%**
 
 - There is **no final exam**. In its place there is a **final project**, due **Monday, December 14**, the first day of finals week.
 - The deliverable, scope, and grading rubric will be announced in class and posted on Canvas well before the end of the term.
