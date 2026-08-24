@@ -34,8 +34,8 @@ One optional supplement, keyed by chapter to the schedule below:
 |Week 13| 11/16-11/20 | Simple linear regression: least squares, inference for the slope, R², prediction, and residual diagnostics | Ch. 11 | **HW6 due Fri 11/20** |
 |Week 14| 11/23-11/25 | Multiple regression and the general linear F test; choosing among models; the classification problem | Ch. 12 | No class Fri 11/27 (Thanksgiving) |
 |Week 15| 11/30-12/4 | Logistic regression: the model, interpretation, inference, prediction, and classification | Ch. 12 | **HW7 due Fri 12/4** |
-|Week 16| 12/7-12/9 | Catch-up; course wrap-up & final exam review | - | Last day of classes Wed 12/9 |
-|Finals| Mon 12/14 | **Final Exam** (cumulative) | - | 10:00a-12:00p |
+|Week 16| 12/7-12/9 | Catch-up; course wrap-up & final project work | - | Last day of classes Wed 12/9 |
+|Finals| Mon 12/14 | **Final project due** | - | First day of finals week |
 
 ## Course Learning Outcomes
 
@@ -89,12 +89,13 @@ Your grade in this course will be computed according to the following weights:
 **Midterm Exams: 30% (15% each)**
 
 - Two midterm exams, tentatively scheduled for **Monday 10/12** and **Monday 11/9**. Coverage of each midterm will be announced in class in advance of the exam.
-- Exams are closed-book. The course formula and table packet is provided with every exam; no other notes are permitted. A basic (non-graphing) calculator is required.
+- Midterm exams are closed-book. The course formula and table packet is provided with every exam; no other notes are permitted. A basic (non-graphing) calculator is required.
 - No make-up or early exams will be given in order to ensure fairness and integrity of the class. Missing an exam without proper documentation of a personal illness or family emergency will result in a score of zero for that exam. Any documentation must be submitted to the instructor before the exam in question at the earliest possible date.
 
-**Final Exam: 30%**
+**Final Project: 30%**
 
-- A **cumulative final exam** on **Monday, December 14, 10:00a-12:00p**. The same closed-book, packet-and-calculator rules apply.
+- There is **no final exam**. In its place there is a **final project**, due **Monday, December 14**, the first day of finals week.
+- The deliverable, scope, and grading rubric will be announced in class and posted on Canvas well before the end of the term.
 
 **In-Class Participation: 20%**
 
@@ -102,7 +103,7 @@ Your grade in this course will be computed according to the following weights:
 
 **Regrade Policy**
 
-You have **7 days** after a graded assignment is returned to contest a grade. After this time, the item may not be considered. If the 7-day period extends beyond the final exam date, the grade must be contested before the final exam.
+You have **7 days** after a graded assignment is returned to contest a grade. After this time, the item may not be considered. If the 7-day period extends beyond the final project due date, the grade must be contested before that date.
 
 **Course Grade Cutoffs**
 
