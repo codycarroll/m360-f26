@@ -40,8 +40,8 @@ One optional supplement, keyed by chapter to the schedule below:
 ## Build Days
 
 Six class meetings this term are **build days**: we construct a Plinko board (a Galton board)
-from scratch — 29" wide and 6'4" tall on a rolling base, sized so it fits through a standard
-doorway assembled — then use it as the source of the data for the final project. Build days
+from scratch — 45.5" wide and 7'11" tall on a rolling base, with 2.5" pucks on a 4" peg pitch
+— then use it as the source of the data for the final project. Build days
 replace lecture on those dates.
 
 | Day | Date | Work |
