@@ -26,10 +26,10 @@ One optional supplement, keyed by chapter to the schedule below:
 |Week 5| 9/21-9/25 | The normal distribution and standardization; the gamma and exponential distributions; chi-square and the F distribution | Ch. 6, 8 | **Build Day 2: Fri 9/25**; **HW2 due Fri 9/25** |
 |Week 6| 9/28-10/2 | The uniform distribution; joint distributions: joint p.d.f.s and marginal distributions | Ch. 6, 3 | **Build Day 3: Fri 10/2** |
 |Week 7| 10/5-10/9 | Conditional distributions and conditional expectation; correlation, independence, and the variance of a sum | Ch. 3-4 | **HW3 due Fri 10/9**; catch-up & exam review that day |
-|Week 8| 10/12-10/16 | Random samples and sums; the law of large numbers and the CLT; simulation — the board is a physical CLT | Ch. 8 | **Midterm Exam 1: Mon 10/12** |
+|Week 8| 10/12-10/16 | Random samples and sums; the law of large numbers and the CLT; simulation (the board is a physical CLT) | Ch. 8 | **Midterm Exam 1: Mon 10/12** |
 |Week 9| 10/21-10/23 | Statistical models and the method of moments; maximum likelihood | Ch. 9 | **Build Day 4: Fri 10/23**; **HW4 due Fri 10/23**; no class Mon 10/19 (Fall Break) |
 |Week 10| 10/26-10/30 | Bias, variance, and mean squared error; confidence intervals: z- and t-intervals and intervals for proportions | Ch. 9 | **Build Day 5: Fri 10/30** |
-|Week 11| 11/2-11/6 | Hypothesis testing: the logic of a test, test statistics and p-values, power, one- and two-sided alternatives | Ch. 10 | **Build Day 6: Fri 11/6 — board complete**; **HW5 due Fri 11/6** |
+|Week 11| 11/2-11/6 | Hypothesis testing: the logic of a test, test statistics and p-values, power, one- and two-sided alternatives | Ch. 10 | **Build Day 6: Fri 11/6, board complete**; **HW5 due Fri 11/6** |
 |Week 12| 11/9-11/13 | Two-sample t-tests (pooled, Welch, and paired); categorical data: the chi-square goodness-of-fit and independence tests, run on the class's own drop data | Ch. 10 | **Midterm Exam 2: Mon 11/9** |
 |Week 13| 11/16-11/20 | Simple linear regression: least squares, inference for the slope, R², prediction, and residual diagnostics | Ch. 11 | **HW6 due Fri 11/20** |
 |Week 14| 11/23-11/25 | Multiple regression and the general linear F test | Ch. 12 | No class Fri 11/27 (Thanksgiving) |
@@ -40,8 +40,8 @@ One optional supplement, keyed by chapter to the schedule below:
 ## Build Days
 
 Six class meetings this term are **build days**: we construct a Plinko board (a Galton board)
-from scratch — 45.5" wide and 7'11" tall on a rolling base, with 2.5" pucks on a 4" peg pitch
-— then use it as the source of the data for the final project. Build days
+from scratch, 45.5" wide and 7'11" tall on a rolling base, with 2.5" pucks on a 4" peg pitch.
+That board is then the source of the data for the final project. Build days
 replace lecture on those dates.
 
 | Day | Date | Work |
@@ -59,7 +59,7 @@ illustration of the CLT.
 
 Build days are graded as participation. **Closed shoes are required on build days**; safety
 glasses and hearing protection are provided. If you cannot take part in the physical build,
-see me in the first two weeks — there is an equivalent role (measurement, data logging, and
+see me in the first two weeks; there is an equivalent role (measurement, data logging, and
 running the drop protocol) on every build day.
 
 ## Course Learning Outcomes
@@ -73,7 +73,7 @@ By the end of this course, students will be able to:
 - Estimate model parameters by the method of moments and maximum likelihood, and assess estimators via bias, standard error, and mean squared error.
 - Construct and correctly interpret confidence intervals, and carry out one- and two-sample hypothesis tests, including the errors, power, and p-value logic behind them.
 - Analyze categorical data with chi-square goodness-of-fit and independence tests.
-- Model a physical device as a probability experiment, collect data from it, and assess how well the idealized model fits — including where and why it fails.
+- Model a physical device as a probability experiment, collect data from it, and assess how well the idealized model fits, including where and why it fails.
 - Fit, assess, and interpret simple and multiple linear regression models, and use logistic regression for binary responses.
 
 ## Course Content
@@ -122,7 +122,7 @@ Your grade in this course will be computed according to the following weights:
 
 - There is **no final exam**. In its place there is a **final project**, due **Monday, December 14**, the first day of finals week.
 - **Data is collected by build team.** Each of the six teams runs **100 drops from the centre position** on the board we build this term (see **Build Days** below) and records its own bin counts. All six datasets are posted, so every student works from the same 600 drops.
-- **The write-up is individual.** From the data: estimate the deflection probability *p* and give a confidence interval for it; test your own team's counts against B(10, 0.5) with a chi-square goodness-of-fit test (pooling the tail bins so every expected count is at least 5); repeat the test on the pooled 600; **repeat it once more against the normal distribution the CLT predicts**, N(5, 2.5) with a continuity correction, and say whether your data can tell the two models apart; test the six teams against one another for homogeneity; and argue from those results whether the board is biased — including where the idealized model breaks down (wall reflections, peg bias, release variation) and what each test did and did not have the power to detect.
+- **The write-up is individual.** From the data: estimate the deflection probability *p* and give a confidence interval for it; test your own team's counts against B(10, 0.5) with a chi-square goodness-of-fit test (pooling the tail bins so every expected count is at least 5); repeat the test on the pooled 600; **repeat it once more against the normal distribution the CLT predicts**, N(5, 2.5) with a continuity correction, and say whether your data can tell the two models apart; test the six teams against one another for homogeneity; and argue from those results whether the board is biased, including where the idealized model breaks down (wall reflections, peg bias, release variation) and what each test did and did not have the power to detect.
 - The full rubric will be posted on Canvas well before the end of the term.
 
 **In-Class Participation: 20%**
@@ -143,7 +143,7 @@ You have **7 days** after a graded assignment is returned to contest a grade. Af
 
 ## On Cheating
 
-As a Jesuit institution committed to *cura personalis*---the care and education of the whole person---the University of San Francisco has an obligation to embody and foster the values of honesty and integrity. The university upholds standards of honesty and integrity from all members of the academic community, including faculty, students, and staff. All students are expected to know and to adhere to the university's honor code. You can find the full text of the code online [here](https://myusf.usfca.edu/academic-integrity/honor-code). Refer to the Homework section above for details regarding student collaboration. Plagiarism consists of copying *any* material from *any* source and submitting it as your own original work, regardless of where that material was sourced: the Internet, a book, textbook, or from deliverables previously submitted by other students. All students involved in any cheating or plagiarized deliverables, i.e., the cheater as well as the person(s) who willfully enabled or facilitated the act of cheating, will be reported through the university's academic integrity process. If you ever have questions about what constitutes plagiarism, cheating, or academic dishonesty in this course, I am happy to discuss these topics with you.
+As a Jesuit institution committed to *cura personalis*, the care and education of the whole person, the University of San Francisco has an obligation to embody and foster the values of honesty and integrity. The university upholds standards of honesty and integrity from all members of the academic community, including faculty, students, and staff. All students are expected to know and to adhere to the university's honor code. You can find the full text of the code online [here](https://myusf.usfca.edu/academic-integrity/honor-code). Refer to the Homework section above for details regarding student collaboration. Plagiarism consists of copying *any* material from *any* source and submitting it as your own original work, regardless of where that material was sourced: the Internet, a book, textbook, or from deliverables previously submitted by other students. All students involved in any cheating or plagiarized deliverables, i.e., the cheater as well as the person(s) who willfully enabled or facilitated the act of cheating, will be reported through the university's academic integrity process. If you ever have questions about what constitutes plagiarism, cheating, or academic dishonesty in this course, I am happy to discuss these topics with you.
 
 ## On Disability
 
