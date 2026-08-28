@@ -32,7 +32,7 @@ One optional supplement, keyed by chapter to the schedule below:
 |Week 11| 11/2-11/6 | Hypothesis testing: the logic of a test, test statistics and p-values, power, one- and two-sided alternatives | Ch. 10 | **Build Day 6: Fri 11/6 — board complete**; **HW5 due Fri 11/6** |
 |Week 12| 11/9-11/13 | Two-sample t-tests (pooled, Welch, and paired); categorical data: the chi-square goodness-of-fit and independence tests, run on the class's own drop data | Ch. 10 | **Midterm Exam 2: Mon 11/9** |
 |Week 13| 11/16-11/20 | Simple linear regression: least squares, inference for the slope, R², prediction, and residual diagnostics | Ch. 11 | **HW6 due Fri 11/20** |
-|Week 14| 11/23-11/25 | Multiple regression | Ch. 12 | No class Fri 11/27 (Thanksgiving) |
+|Week 14| 11/23-11/25 | Multiple regression and the general linear F test | Ch. 12 | No class Fri 11/27 (Thanksgiving) |
 |Week 15| 11/30-12/4 | Logistic regression: the model, interpretation, inference, prediction, and classification | Ch. 12 | **HW7 due Fri 12/4** |
 |Week 16| 12/7-12/9 | Course wrap-up & final project work | - | Last day of classes Wed 12/9 |
 |Finals| Mon 12/14 | **Final project due** | - | First day of finals week |
