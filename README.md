@@ -108,7 +108,7 @@ Your grade in this course will be computed according to the following weights:
 
 **Homework: 20%**
 
-- There will be seven problem sets, each covering about two weeks of material, due at the beginning of class. Due dates will be announced in class and posted on Canvas.
+- There will be seven problem sets, each covering about two weeks of material, submitted as file uploads on Canvas. Due dates will be announced in class and posted on Canvas.
 - Students are encouraged to discuss and work together on assignments, but each student must turn in their own original work. **If there is evidence that the work turned in is not original work, which includes copying another student's homework or using any solutions found online, all credit for that homework set will be forfeited. Homework is not to be posted to online help sites. These sites will be checked frequently.**
 - _No late homework will be accepted._
 
