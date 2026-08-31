@@ -9,7 +9,7 @@
 **Office Hours**: Mon 2:30-3:30p in the Hive (Harney Engineering area); Tue 2:30-3:30p on Zoom (link on Canvas)
 
 **Text**:
-Course lecture notes (*MATH 360 Lecture Notes*, distributed via Canvas) are the primary text and are self-contained. A formula and table packet is distributed with the notes; it is the same packet provided with every exam, so work from it all semester.
+Course lecture notes (*MATH 360 Lecture Notes*, distributed via Canvas) are the primary text and are self-contained. A formula and table packet is distributed with the notes; work from it all semester.
 
 One optional supplement, keyed by chapter to the schedule below:
 
@@ -115,7 +115,7 @@ Your grade in this course will be computed according to the following weights:
 **Midterm Exams: 40% (20% each)**
 
 - Two midterm exams, tentatively scheduled for **Monday 10/12** and **Monday 11/9**. Coverage of each midterm will be announced in class in advance of the exam.
-- Midterm exams are closed-book. The course formula and table packet is provided with every exam; no other notes are permitted.
+- Midterm exams are closed-book. Any permitted reference materials will be announced in class in advance of the exam.
 - No make-up or early exams will be given in order to ensure fairness and integrity of the class. Missing an exam without proper documentation of a personal illness or family emergency will result in a score of zero for that exam. Any documentation must be submitted to the instructor before the exam in question at the earliest possible date.
 
 **Final Project: 20%**
