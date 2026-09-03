@@ -22,7 +22,7 @@ One optional supplement, keyed by chapter to the schedule below:
 |Week 1| 8/26-8/28 | Course overview; sample spaces and events; operations on events and De Morgan's laws | Ch. 2 |  |
 |Week 2| 8/31-9/4 | The axioms of probability; inclusion-exclusion; counting; conditional probability and the total probability theorem | Ch. 2 |  |
 |Week 3| 9/9-9/11 | Bayes' theorem; independent events | Ch. 2 | **Build Day 1: Fri 9/11**; **HW1 due Fri 9/11**; no class Mon 9/7 (Labor Day) |
-|Week 4| 9/14-9/18 | Random variables, p.m.f. and c.d.f.; continuous random variables; expectation, variance, and quantiles; the binomial, geometric, and Poisson distributions (the board's model: B(10, 0.5)) | Ch. 3-5 |  |
+|Week 4| 9/14-9/18 | Random variables, p.m.f. and c.d.f.; continuous random variables; expectation, variance, and quantiles; the binomial, geometric, and Poisson distributions (the board's model: B(10, 0.5)) | Ch. 3-5 | Remote class Fri 9/18 |
 |Week 5| 9/21-9/25 | The normal distribution and standardization; the gamma and exponential distributions; chi-square and the F distribution | Ch. 6, 8 | **Build Day 2: Fri 9/25**; **HW2 due Fri 9/25** |
 |Week 6| 9/28-10/2 | The uniform distribution; joint distributions: joint p.d.f.s and marginal distributions | Ch. 6, 3 | **Build Day 3: Fri 10/2** |
 |Week 7| 10/5-10/9 | Conditional distributions and conditional expectation; correlation, independence, and the variance of a sum | Ch. 3-4 | **HW3 due Fri 10/9**; catch-up & exam review that day |
