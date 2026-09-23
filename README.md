@@ -30,10 +30,10 @@ One optional supplement, keyed by chapter to the schedule below:
 |Week 9| 10/21-10/23 | Random samples and sums of independent random variables; the law of large numbers | Ch. 8 | **Build Day 4: Fri 10/23**; **HW4 due Fri 10/23**; no class Mon 10/19 (Fall Break) |
 |Week 10| 10/26-10/30 | The central limit theorem and the continuity correction (the board is a physical CLT; simulation via the course notebook); statistical models and the method of moments | Ch. 8-9 | **Build Day 5: Fri 10/30** |
 |Week 11| 11/2-11/6 | Maximum likelihood; bias, variance, and mean squared error | Ch. 9 | **Build Day 6: Fri 11/6, board complete**; **HW5 due Fri 11/6** |
-|Week 12| 11/9-11/13 | Confidence intervals: z- and t-intervals and intervals for proportions | Ch. 9 | **Midterm Exam 2: Mon 11/9** (joint distributions through estimation) |
+|Week 12| 11/9-11/13 | Confidence intervals: z- and t-intervals and intervals for proportions | Ch. 9 |  |
 |Week 13| 11/16-11/20 | Hypothesis testing: the logic of a test, test statistics and p-values, errors and power, one- and two-sided alternatives, the one-sample t-test | Ch. 10 | **HW6 due Fri 11/20** |
-|Week 14| 11/23-11/25 | Two-sample t-tests; the chi-square goodness-of-fit and independence tests, run on the class's own drop data | Ch. 10 | No class Fri 11/27 (Thanksgiving) |
-|Week 15| 11/30-12/4 | Simple linear regression: least squares, inference for the slope, R², prediction, and residual diagnostics | Ch. 11 | **HW7 due Fri 12/4** |
+|Week 14| 11/23-11/25 | Two-sample t-tests; the chi-square goodness-of-fit and independence tests, run on the class's own drop data | Ch. 10 | **Exam 2 review: Wed 11/25**; no class Fri 11/27 (Thanksgiving) |
+|Week 15| 11/30-12/4 | Simple linear regression: least squares, inference for the slope, R², prediction, and residual diagnostics | Ch. 11 | **Midterm Exam 2: Mon 11/30** (coverage announced in class); **HW7 due Fri 12/4** |
 |Week 16| 12/7-12/9 | Regression wrap-up; course wrap-up & final project work | Ch. 11 | Last day of classes Wed 12/9 |
 |Finals| Mon 12/14 | **Final project due** | - | First day of finals week |
 
@@ -116,7 +116,7 @@ Your grade in this course will be computed according to the following weights:
 
 **Midterm Exams: 40% (20% each)**
 
-- Two midterm exams, tentatively scheduled for **Monday 10/12** and **Monday 11/9**. Coverage of each midterm will be announced in class in advance of the exam.
+- Two midterm exams, tentatively scheduled for **Monday 10/12** and **Monday 11/30**. Coverage of each midterm will be announced in class in advance of the exam.
 - Midterm exams are closed-book. Any permitted reference materials will be announced in class in advance of the exam.
 - No make-up or early exams will be given in order to ensure fairness and integrity of the class. Missing an exam without proper documentation of a personal illness or family emergency will result in a score of zero for that exam. Any documentation must be submitted to the instructor before the exam in question at the earliest possible date.
 
