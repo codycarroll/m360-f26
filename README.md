@@ -118,7 +118,7 @@ Your grade in this course will be computed according to the following weights:
 
 - Two midterm exams, tentatively scheduled for **Monday 10/12** and **Monday 11/30**. Coverage of each midterm will be announced in class in advance of the exam.
 - Midterm exams are closed-book. Any permitted reference materials will be announced in class in advance of the exam.
-- No make-up or early exams will be given in order to ensure fairness and integrity of the class. Missing an exam without proper documentation of a personal illness or family emergency will result in a score of zero for that exam. Any documentation must be submitted to the instructor before the exam in question at the earliest possible date.
+- No make-up or early exams will be given in order to ensure fairness and integrity of the class. Missing an exam without official documentation of a personal illness or family emergency (a doctor's note, an accident report, a hospital record, or similar) will result in a score of zero for that exam. Any documentation must be submitted to the instructor before the exam in question at the earliest possible date.
 
 **Final Project: 20%**
 
@@ -130,7 +130,7 @@ Your grade in this course will be computed according to the following weights:
 **In-Class Participation: 20%**
 
 - Every 4 weeks you will receive an assessment of your engagement and participation in class, scored on a 0-5 rubric. Full marks reflect consistent attendance, participating in class activities, offering questions and answers during lecture and at the board, attending office hours, and working with classmates outside of class.
-- Attendance is part of participation. If you are going to miss a class, email me **before** the meeting; a line or two is enough, but documentation of the reason is required. Absences communicated in advance are treated differently from those that are not, and repeated unannounced absences will lower your participation score. This matters most on build days.
+- Attendance is part of participation. If you are going to miss a class, email me **before** the meeting; a line or two is enough, but official documentation of the reason (a doctor's note, an accident report, or similar) is required. Absences communicated in advance are treated differently from those that are not, and repeated unannounced absences will lower your participation score. This matters most on build days.
 
 **Regrade Policy**
 
@@ -158,7 +158,7 @@ All students are expected to behave in accordance with the Student Conduct Code 
 
 ## On Illnesses and Emergencies
 
-If you fall ill or have an emergency (personal or otherwise) that significantly affects your ability to complete an assignment or take an exam, you must notify the instructor before the task is due. Do not simply skip an exam or an assignment and say you were sick after the fact. Always make arrangements with the instructor beforehand, rather than declaring illness or emergency later. **Accommodations are not retroactive.** Illness and emergency related situations must be disclosed to the instructor in writing. Illness-related issues must be accompanied by a doctor's note.
+If you fall ill or have an emergency (personal or otherwise) that significantly affects your ability to complete an assignment or take an exam, you must notify the instructor before the task is due. Do not simply skip an exam or an assignment and say you were sick after the fact. Always make arrangements with the instructor beforehand, rather than declaring illness or emergency later. **Accommodations are not retroactive.** Illness and emergency related situations must be disclosed to the instructor in writing. Illness- and emergency-related situations must be accompanied by official documentation: a doctor's note, an accident or police report, a hospital record, or a comparable record from the provider or agency involved.
 
 ## On the Learning, Writing, and Speaking Centers
 
