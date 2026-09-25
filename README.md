@@ -23,8 +23,8 @@ One optional supplement, keyed by chapter to the schedule below:
 |Week 2| 8/31-9/4 | The axioms of probability; inclusion-exclusion; counting; conditional probability and partitions | Ch. 2 |  |
 |Week 3| 9/9-9/11 | The total probability theorem | Ch. 2 | **Build Day 1: Fri 9/11**; **HW1 due Mon 9/14**; no class Mon 9/7 (Labor Day) |
 |Week 4| 9/14-9/18 | Bayes' theorem and independence, worked on the class's own survey data; random variables, p.m.f. and c.d.f.; continuous random variables and the p.d.f. | Ch. 2-3 | Remote class Fri 9/18 |
-|Week 5| 9/21-9/25 | Expectation and its properties; variance, standard deviation, and moments | Ch. 4 | **Build Day 2: Fri 9/25**; **HW2 due Fri 9/25** |
-|Week 6| 9/28-10/2 | Quantiles; the binomial, geometric, and Poisson distributions (the board's model: B(10, 0.5)) | Ch. 5 | **Build Day 3: Fri 10/2** |
+|Week 5| 9/21-9/25 | Expectation and its properties; variance, standard deviation, and moments | Ch. 4 | **Build Day 2: Fri 9/25** |
+|Week 6| 9/28-10/2 | Quantiles; the binomial, geometric, and Poisson distributions (the board's model: B(10, 0.5)) | Ch. 5 | **HW2 due Mon 9/28**; **Build Day 3: Fri 10/2** |
 |Week 7| 10/5-10/9 | The normal distribution, standardization, and the normal approximation to the binomial; the exponential, gamma, and uniform distributions | Ch. 6 | **HW3 due Fri 10/9**; catch-up & exam review that day |
 |Week 8| 10/12-10/16 | Joint distributions: joint p.m.f.s and p.d.f.s and marginal distributions; conditional distributions and conditional expectation | Ch. 3-4 | **Midterm Exam 1: Mon 10/12** (through the continuous distributions) |
 |Week 9| 10/21-10/23 | Independence, covariance and correlation, and the variance of a sum | Ch. 4 | **Build Day 4: Fri 10/23**; no class Mon 10/19 (Fall Break) |
