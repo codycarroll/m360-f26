@@ -27,14 +27,14 @@ One optional supplement, keyed by chapter to the schedule below:
 |Week 6| 9/28-10/2 | The Poisson distribution; the normal distribution, standardization, and the normal approximation to the binomial | Ch. 5-6 | **Build Day 3: Fri 10/2** |
 |Week 7| 10/5-10/9 | The exponential, gamma, and uniform distributions; joint distributions: joint p.m.f.s and p.d.f.s and marginal distributions | Ch. 6, 3 | **HW3 due Fri 10/9**; catch-up & exam review that day |
 |Week 8| 10/12-10/16 | Conditional distributions and conditional expectation; independence, covariance and correlation, and the variance of a sum | Ch. 3-4 | **Midterm Exam 1: Mon 10/12** (through the continuous distributions) |
-|Week 9| 10/21-10/23 | Random samples and sums of independent random variables; the law of large numbers | Ch. 8 | **Build Day 4: Fri 10/23**; **HW4 due Fri 10/23**; no class Mon 10/19 (Fall Break) |
-|Week 10| 10/26-10/30 | The central limit theorem and the continuity correction (the board is a physical CLT; simulation via the course notebook); statistical models and the method of moments | Ch. 8-9 | **Build Day 5: Fri 10/30** |
-|Week 11| 11/2-11/6 | Maximum likelihood; bias, variance, and mean squared error | Ch. 9 | **Build Day 6: Fri 11/6, board complete**; **HW5 due Fri 11/6** |
-|Week 12| 11/9-11/13 | Confidence intervals: z- and t-intervals and intervals for proportions | Ch. 9 |  |
-|Week 13| 11/16-11/20 | Hypothesis testing: the logic of a test, test statistics and p-values, errors and power, one- and two-sided alternatives, the one-sample t-test | Ch. 10 | **HW6 due Fri 11/20** |
+|Week 9| 10/21-10/23 | Random samples and sums of independent random variables; the law of large numbers | Ch. 8 | **Build Day 4: Fri 10/23**; no class Mon 10/19 (Fall Break) |
+|Week 10| 10/26-10/30 | The central limit theorem and the continuity correction (the board is a physical CLT; simulation via the course notebook); statistical models and the method of moments | Ch. 8-9 | **Build Day 5: Fri 10/30**; **HW4 due Fri 10/30** |
+|Week 11| 11/2-11/6 | Maximum likelihood; bias, variance, and mean squared error | Ch. 9 | **Build Day 6: Fri 11/6, board complete** |
+|Week 12| 11/9-11/13 | Confidence intervals: z- and t-intervals and intervals for proportions | Ch. 9 | **HW5 due Fri 11/13** |
+|Week 13| 11/16-11/20 | Hypothesis testing: the logic of a test, test statistics and p-values, errors and power, one- and two-sided alternatives, the one-sample t-test | Ch. 10 |  |
 |Week 14| 11/23-11/25 | Two-sample t-tests; the chi-square goodness-of-fit and independence tests, run on the class's own drop data | Ch. 10 | **Exam 2 review: Wed 11/25**; no class Fri 11/27 (Thanksgiving) |
-|Week 15| 11/30-12/4 | Simple linear regression: least squares, inference for the slope, R², prediction, and residual diagnostics | Ch. 11 | **Midterm Exam 2: Mon 11/30** (coverage announced in class); **HW7 due Fri 12/4** |
-|Week 16| 12/7-12/9 | Regression wrap-up; course wrap-up & final project work | Ch. 11 | Last day of classes Wed 12/9 |
+|Week 15| 11/30-12/4 | Simple linear regression: least squares, inference for the slope, R², prediction, and residual diagnostics | Ch. 11 | **Midterm Exam 2: Mon 11/30** (coverage announced in class); **HW6 due Fri 12/4** |
+|Week 16| 12/7-12/9 | Regression wrap-up; course wrap-up & final project work | Ch. 11 | **HW7 due Wed 12/9**; last day of classes Wed 12/9 |
 |Finals| Mon 12/14 | **Final project due** | - | First day of finals week |
 
 *Revised 9/14 to match our pace. Multiple regression, logistic regression, and classification are no longer on the schedule; the chi-square and F distributions appear only where the tests that use them do.*
