@@ -31,8 +31,8 @@ One optional supplement, keyed by chapter to the schedule below:
 |Week 10| 10/26-10/30 | Random samples and sums of independent random variables; the law of large numbers; the central limit theorem and the continuity correction (the board is a physical CLT; simulation via the course notebook) | Ch. 8 | **Build Day 5: Fri 10/30**; **HW4 due Fri 10/30** |
 |Week 11| 11/2-11/6 | Statistical models and the method of moments; maximum likelihood | Ch. 9 | **Build Day 6: Fri 11/6, board complete** |
 |Week 12| 11/9-11/13 | Bias, variance, and mean squared error; confidence intervals: z- and t-intervals and intervals for proportions | Ch. 9 | **HW5 due Fri 11/13** |
-|Week 13| 11/16-11/20 | Hypothesis testing: the logic of a test, test statistics and p-values, errors and power, one- and two-sided alternatives, the one-sample t-test | Ch. 10 |  |
-|Week 14| 11/23-11/25 | Two-sample t-tests; the chi-square goodness-of-fit and independence tests, run on the class's own drop data | Ch. 10 | **Exam 2 review: Wed 11/25**; no class Fri 11/27 (Thanksgiving) |
+|Week 13| 11/16-11/20 | Hypothesis testing: the logic of a test, test statistics and p-values, errors and power, one- and two-sided alternatives, the one-sample t-test; two-sample and paired t-tests | Ch. 10 |  |
+|Week 14| 11/23-11/25 | The chi-square goodness-of-fit test, run on the class's own drop data | Ch. 10 | **Exam 2 review: Wed 11/25**; no class Fri 11/27 (Thanksgiving) |
 |Week 15| 11/30-12/4 | Simple linear regression: the model and least squares; inference for the slope | Ch. 11 | **Midterm Exam 2: Mon 11/30** (coverage announced in class); **HW6 due Fri 12/4** |
 |Week 16| 12/7-12/9 | Simple linear regression: R², prediction, and residual diagnostics; course wrap-up & final project work | Ch. 11 | **HW7 due Wed 12/9**; last day of classes Wed 12/9 |
 |Finals| Mon 12/14 | **Final project due** | - | First day of finals week |
