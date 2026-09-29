@@ -130,7 +130,7 @@ Your grade in this course will be computed according to the following weights:
 **In-Class Participation: 20%**
 
 - Every 4 weeks you will receive an assessment of your engagement and participation in class, scored on a 0-5 rubric. Full marks reflect consistent attendance, participating in class activities, offering questions and answers during lecture and at the board, attending office hours, and working with classmates outside of class.
-- Attendance is part of participation. If you are going to miss a class, email me **before** the meeting; a line or two is enough, but official documentation of the reason (a doctor's note, an accident report, or similar) is required. Absences communicated in advance are treated differently from those that are not, and repeated unannounced absences will lower your participation score. This matters most on build days.
+- Attendance is part of participation. If you are going to miss a class, email me **before** the meeting; a line or two is enough, but official documentation of the reason (a doctor's note, an accident report, or similar) is required. Absences communicated in advance are treated differently from those that are not, and repeated unannounced absences will lower your participation score. This matters most on build days. Repeated absences, even with notification, will affect the participation grade negatively.
 
 **Regrade Policy**
 
