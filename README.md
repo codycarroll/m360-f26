@@ -32,8 +32,8 @@ One optional supplement, keyed by chapter to the schedule below:
 |Week 11| 11/2-11/6 | Statistical models and the method of moments; maximum likelihood | Ch. 9 | **Build Day 6: Fri 11/6, board complete** |
 |Week 12| 11/9-11/13 | Bias, variance, and mean squared error; confidence intervals: z- and t-intervals and intervals for proportions | Ch. 9 | **HW5 due Fri 11/13** |
 |Week 13| 11/16-11/20 | Hypothesis testing: the logic of a test, test statistics and p-values, errors and power, one- and two-sided alternatives, the one-sample t-test; two-sample and paired t-tests | Ch. 10 |  |
-|Week 14| 11/23-11/25 | The chi-square goodness-of-fit test, run on the class's own drop data | Ch. 10 | **Exam 2 review: Wed 11/25**; no class Fri 11/27 (Thanksgiving) |
-|Week 15| 11/30-12/4 | Simple linear regression: the model and least squares; inference for the slope | Ch. 11 | **Midterm Exam 2: Mon 11/30** (coverage announced in class); **HW6 due Fri 12/4** |
+|Week 14| 11/23-11/25 | The chi-square goodness-of-fit test, run on the class's own drop data | Ch. 10 | no class Fri 11/27 (Thanksgiving) |
+|Week 15| 11/30-12/4 | Simple linear regression: the model and least squares; inference for the slope | Ch. 11 | **Exam 2 review: Mon 11/30**; **Midterm Exam 2: Wed 12/2** (coverage announced in class); **HW6 due Fri 12/4** |
 |Week 16| 12/7-12/9 | Simple linear regression: R², prediction, and residual diagnostics; course wrap-up & final project work | Ch. 11 | **HW7 due Wed 12/9**; last day of classes Wed 12/9 |
 |Finals| Mon 12/14 | **Final project due** | - | First day of finals week |
 
@@ -117,14 +117,14 @@ Your grade in this course will be computed according to the following weights:
 
 **Midterm Exams: 40% (20% each)**
 
-- Two midterm exams, tentatively scheduled for **Monday 10/12** and **Monday 11/30**. Coverage of each midterm will be announced in class in advance of the exam.
+- Two midterm exams, tentatively scheduled for **Monday 10/12** and **Wednesday 12/2**. Coverage of each midterm will be announced in class in advance of the exam.
 - Midterm exams are closed-book. Any permitted reference materials will be announced in class in advance of the exam.
 - No make-up or early exams will be given in order to ensure fairness and integrity of the class. Missing an exam without official documentation of a personal illness or family emergency (a doctor's note, an accident report, a hospital record, or similar) will result in a score of zero for that exam. Any documentation must be submitted to the instructor before the exam in question at the earliest possible date.
 
 **Final Project: 20%**
 
 - There is **no final exam**. In its place there is a **final project**, due **Monday, December 14**, the first day of finals week.
-- **Data is collected by build team.** Each of the six teams runs **100 drops from the centre position** on the board we build this term (see **Build Days** below) and records its own bin counts. All six datasets are posted, so every student works from the same 600 drops.
+- **Data is collected by build team.** Each of the five teams runs **120 drops from the center position** on the board we build this term (see **Build Days** below) and records its own bin counts. All five datasets are posted, so every student works from the same 600 drops.
 - **The write-up is individual.** From the data: estimate the deflection probability *p* and give a confidence interval for it; test your own team's counts against B(10, 0.5) with a chi-square goodness-of-fit test (pooling the tail bins so every expected count is at least 5); repeat the test on the pooled 600; **repeat it once more against the normal distribution the CLT predicts**, N(5, 2.5) with a continuity correction, and say whether your data can tell the two models apart; test the six teams against one another for homogeneity; and argue from those results whether the board is biased, including where the idealized model breaks down (wall reflections, peg bias, release variation) and what each test did and did not have the power to detect.
 - The full rubric will be posted on Canvas well before the end of the term.
 
