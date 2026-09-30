@@ -42,18 +42,19 @@ One optional supplement, keyed by chapter to the schedule below:
 ## Build Days
 
 Six class meetings this term are **build days**: we construct a Plinko board (a Galton board)
-from scratch, 45.5" wide and 7'11" tall on a rolling base, with 2.5" pucks on a 4" peg pitch.
+from scratch, 45.5" wide on a rolling base, with 2.5" pucks on a 4" peg pitch. Each build day
+after the first runs as five parallel stations, one per team of six, with a task sheet at each station.
 That board is then the source of the data for the final project. Build days
 replace lecture on those dates.
 
 | Day | Date | Work |
 | :---: | :---: | :--- |
 | 1 | Fri 9/11 | **Safety session and introduction to the Hive** |
-| 2 | Fri 9/25 | Design review, plywood sheet layout, frame cuts |
-| 3 | Fri 10/2 | Frame assembly and rolling base; laying out the peg grid |
-| 4 | Fri 10/23 | Drilling the 105-hole peg grid |
-| 5 | Fri 10/30 | Installing pegs and bin dividers |
-| 6 | Fri 11/6 | **Board complete**: front panel; drop comb and center mark; calibration drops |
+| 2 | Fri 9/25 | Puck molds; side rails and support boards; edge blockers; passage survey and laser-cut parts; pegs and the paint design |
+| 3 | Fri 10/2 | Casting pucks; painting the parts and the board; cutting and assembling the rolling base |
+| 4 | Fri 10/23 | Pegs in; gluing up the board; wheels on the base; more pucks |
+| 5 | Fri 10/30 | Rails and support boards on; board onto the base; front panel |
+| 6 | Fri 11/6 | **Board complete**: drop comb and center mark; calibration drops |
 
 The board is a physical model of the material: 10 staggered peg rows are 10 independent
 Bernoulli deflections, so a puck's landing bin is B(10, 0.5), and the bin counts are a physical
