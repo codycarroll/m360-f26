@@ -28,16 +28,16 @@ One optional supplement, keyed by chapter to the schedule below:
 |Week 7| 10/5-10/9 | The normal distribution, standardization, and the normal approximation to the binomial; the exponential, gamma, and uniform distributions | Ch. 6 | **HW3 due Fri 10/9**; catch-up & exam review that day |
 |Week 8| 10/12-10/16 | Joint distributions: joint p.m.f.s and p.d.f.s and marginal distributions; conditional distributions and conditional expectation | Ch. 3-4 | **Midterm Exam 1: Mon 10/12** (through the continuous distributions) |
 |Week 9| 10/21-10/23 | Independence, covariance and correlation, and the variance of a sum | Ch. 4 | **Build Day 4: Fri 10/23**; no class Mon 10/19 (Fall Break) |
-|Week 10| 10/26-10/30 | Random samples and sums of independent random variables; the law of large numbers; the central limit theorem and the continuity correction (the board is a physical CLT; simulation via the course notebook) | Ch. 8 | **Build Day 5: Fri 10/30**; **HW4 due Fri 10/30** |
-|Week 11| 11/2-11/6 | Statistical models and the method of moments; maximum likelihood | Ch. 9 | **Build Day 6: Fri 11/6, board complete** |
-|Week 12| 11/9-11/13 | Bias, variance, and mean squared error; confidence intervals: z- and t-intervals and intervals for proportions | Ch. 9 | **HW5 due Fri 11/13** |
-|Week 13| 11/16-11/20 | Hypothesis testing: the logic of a test, test statistics and p-values, errors and power, one- and two-sided alternatives, the one-sample t-test; two-sample and paired t-tests | Ch. 10 |  |
-|Week 14| 11/23-11/25 | The chi-square goodness-of-fit test, run on the class's own drop data | Ch. 10 | no class Fri 11/27 (Thanksgiving) |
-|Week 15| 11/30-12/4 | Simple linear regression: the model and least squares; inference for the slope | Ch. 11 | **Exam 2 review: Mon 11/30**; **Midterm Exam 2: Wed 12/2** (coverage announced in class); **HW6 due Fri 12/4** |
-|Week 16| 12/7-12/9 | Simple linear regression: R², prediction, and residual diagnostics; course wrap-up & final project work | Ch. 11 | **HW7 due Wed 12/9**; last day of classes Wed 12/9 |
+|Week 10| 10/26-10/30 | Simple linear regression, part I: the model, least squares, and interpreting the slope and intercept | Ch. 11 | **Build Day 5: Fri 10/30**; **HW4 due Fri 10/30** |
+|Week 11| 11/2-11/6 | R² and residual plots; random samples and sums of independent random variables; the law of large numbers; the central limit theorem (the board is a physical CLT) | Ch. 8, 11 | **Build Day 6: Fri 11/6, board complete** |
+|Week 12| 11/9-11/13 | The continuity correction (simulation via the course notebook); statistical models and the method of moments; maximum likelihood | Ch. 8-9 | **HW5 due Fri 11/13** |
+|Week 13| 11/16-11/20 | Bias, variance, and mean squared error; confidence intervals: z- and t-intervals and intervals for proportions; hypothesis testing: the logic of a test, test statistics and p-values | Ch. 9-10 |  |
+|Week 14| 11/23-11/25 | Hypothesis testing, continued: errors and power, one- and two-sided alternatives, the one-sample t-test; two-sample and paired t-tests | Ch. 10 | no class Fri 11/27 (Thanksgiving) |
+|Week 15| 11/30-12/4 | The chi-square goodness-of-fit test, run on the class's own drop data; inference for regression: the slope test and interval | Ch. 10-11 | **Exam 2 review: Mon 11/30**; **Midterm Exam 2: Wed 12/2** (coverage announced in class); **HW6 due Fri 12/4** |
+|Week 16| 12/7-12/9 | Inference for regression, continued: confidence versus prediction intervals; course wrap-up & final project work | Ch. 11 | **HW7 due Wed 12/9**; last day of classes Wed 12/9 |
 |Finals| Mon 12/14 | **Final project due** | - | First day of finals week |
 
-*Revised 9/14 to match our pace. Multiple regression, logistic regression, and classification are no longer on the schedule; the chi-square and F distributions appear only where the tests that use them do.*
+*Revised 9/14 to match our pace. Multiple regression, logistic regression, and classification are no longer on the schedule; the chi-square and F distributions appear only where the tests that use them do. Revised 10/2: simple linear regression (the model, least squares, R², residual plots) moved up to weeks 10-11, right after joint distributions; inference for the slope follows hypothesis testing in weeks 15-16.*
 
 ## Build Days
 
