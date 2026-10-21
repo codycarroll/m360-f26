@@ -37,7 +37,7 @@ One optional supplement, keyed by chapter to the schedule below:
 |Week 16| 12/7-12/9 | Inference for regression, continued: confidence versus prediction intervals; course wrap-up & final project work | Ch. 11 | last day of classes Wed 12/9 |
 |Finals| Mon 12/14 | **Final project due** | - | First day of finals week; **HW7 due Mon 12/14** |
 
-*Revised 9/14 to match our pace. Multiple regression, logistic regression, and classification are no longer on the schedule; the chi-square and F distributions appear only where the tests that use them do. Revised 10/2: simple linear regression (the model, least squares, R², residual plots) moved up to weeks 10-11, right after joint distributions; inference for the slope follows hypothesis testing in weeks 15-16.*
+*Revised 9/14 to match our pace. Multiple regression, logistic regression, and classification are no longer on the schedule; the chi-square and F distributions appear only where the tests that use them do. Revised 10/2: simple linear regression (the model, least squares, R², residual plots) moved up to weeks 10-11, right after joint distributions; inference for the slope follows hypothesis testing in weeks 15-16. Revised 10/21: HW6 due Mon 11/30 and HW7 due Mon 12/14; the continuity correction is no longer covered.*
 
 ## Build Days
 
@@ -77,7 +77,7 @@ By the end of this course, students will be able to:
 - Construct and correctly interpret confidence intervals, and carry out one- and two-sample hypothesis tests, including the errors, power, and p-value logic behind them.
 - Analyze categorical data with chi-square goodness-of-fit and independence tests.
 - Model a physical device as a probability experiment, collect data from it, and assess how well the idealized model fits, including where and why it fails.
-- Fit, assess, and interpret simple and multiple linear regression models, and use logistic regression for binary responses.
+- Fit, assess, and interpret simple linear regression models, and make inferences about the slope.
 
 ## Course Content
 
@@ -91,7 +91,7 @@ The course is a single-semester path from probability to applied statistics for 
 - Point Estimation: Method of Moments, Maximum Likelihood, Bias and Standard Error
 - Confidence Intervals and Hypothesis Tests (one- and two-sample)
 - Chi-Square Tests: Goodness of Fit and Independence
-- Simple and Multiple Linear Regression; Logistic Regression and Classification
+- Simple Linear Regression and inference for the slope
 
 ## Course Tenets:
 
