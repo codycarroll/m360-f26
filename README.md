@@ -33,9 +33,9 @@ One optional supplement, keyed by chapter to the schedule below:
 |Week 12| 11/9-11/13 | The continuity correction (simulation via the course notebook); statistical models and the method of moments; maximum likelihood | Ch. 8-9 | **HW4 due Mon 11/9** |
 |Week 13| 11/16-11/20 | Bias, variance, and mean squared error; confidence intervals: z- and t-intervals and intervals for proportions; hypothesis testing: the logic of a test, test statistics and p-values | Ch. 9-10 | **HW5 due Fri 11/20** |
 |Week 14| 11/23-11/25 | Hypothesis testing, continued: errors and power, one- and two-sided alternatives, the one-sample t-test; two-sample and paired t-tests | Ch. 10 | no class Fri 11/27 (Thanksgiving) |
-|Week 15| 11/30-12/4 | The chi-square goodness-of-fit test, run on the class's own drop data; inference for regression: the slope test and interval | Ch. 10-11 | **Exam 2 review: Mon 11/30**; **Midterm Exam 2: Wed 12/2** (coverage announced in class); **HW6 due Fri 12/4** |
-|Week 16| 12/7-12/9 | Inference for regression, continued: confidence versus prediction intervals; course wrap-up & final project work | Ch. 11 | **HW7 due Wed 12/9**; last day of classes Wed 12/9 |
-|Finals| Mon 12/14 | **Final project due** | - | First day of finals week |
+|Week 15| 11/30-12/4 | The chi-square goodness-of-fit test, run on the class's own drop data; inference for regression: the slope test and interval | Ch. 10-11 | **Exam 2 review: Mon 11/30**; **Midterm Exam 2: Wed 12/2** (coverage announced in class); **HW6 due Mon 11/30** |
+|Week 16| 12/7-12/9 | Inference for regression, continued: confidence versus prediction intervals; course wrap-up & final project work | Ch. 11 | last day of classes Wed 12/9 |
+|Finals| Mon 12/14 | **Final project due** | - | First day of finals week; **HW7 due Mon 12/14** |
 
 *Revised 9/14 to match our pace. Multiple regression, logistic regression, and classification are no longer on the schedule; the chi-square and F distributions appear only where the tests that use them do. Revised 10/2: simple linear regression (the model, least squares, R², residual plots) moved up to weeks 10-11, right after joint distributions; inference for the slope follows hypothesis testing in weeks 15-16.*
 
