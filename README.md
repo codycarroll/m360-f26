@@ -56,8 +56,8 @@ replace lecture on those dates.
 | 5 | Fri 10/30 | Rails and support boards on; board onto the base; front panel |
 | 6 | Fri 11/6 | **Board complete**: drop comb and center mark; calibration drops |
 
-The board is a physical model of the material: 10 staggered peg rows are 10 independent
-Bernoulli deflections, so a puck's landing bin is B(10, 0.5), and the bin counts are a physical
+The board is a physical model of the material: 9 staggered peg rows plus the tops of the bin
+dividers give 10 independent Bernoulli deflections, so a puck's landing bin is B(10, 0.5), and the bin counts are a physical
 illustration of the CLT.
 
 Build days are graded as participation. **Closed shoes are required on build days**; safety
@@ -125,7 +125,7 @@ Your grade in this course will be computed according to the following weights:
 
 - There is **no final exam**. In its place there is a **final project**, due **Monday, December 14**, the first day of finals week.
 - **Data is collected by build team.** Each of the five teams runs **120 drops from the center position** on the board we build this term (see **Build Days** below) and records its own bin counts. All five datasets are posted, so every student works from the same 600 drops.
-- **The write-up is individual.** From the data: estimate the deflection probability *p* and give a confidence interval for it; test your own team's counts against B(10, 0.5) with a chi-square goodness-of-fit test (pooling the tail bins so every expected count is at least 5); repeat the test on the pooled 600; **repeat it once more against the normal distribution the CLT predicts**, N(5, 2.5), giving each bin *k* the normal area from *k* − 0.5 to *k* + 0.5, and say whether your data can tell the two models apart; test the six teams against one another for homogeneity; and argue from those results whether the board is biased, including where the idealized model breaks down (wall reflections, peg bias, release variation) and what each test did and did not have the power to detect.
+- **The write-up is individual.** From the data: estimate the deflection probability *p* and give a confidence interval for it; test your own team's counts against B(10, 0.5) with a chi-square goodness-of-fit test that uses all 11 bins; repeat the test on the pooled 600; **repeat it once more against the normal distribution the CLT predicts**, N(5, 2.5), giving each bin *k* the normal area from *k* − 0.5 to *k* + 0.5, and say whether your data can tell the two models apart; test the five teams against one another for homogeneity; and argue from those results whether the board is biased, including where the idealized model breaks down (wall reflections, peg bias, release variation) and what each test did and did not have the power to detect.
 - The full rubric will be posted on Canvas well before the end of the term.
 
 **In-Class Participation: 20%**
