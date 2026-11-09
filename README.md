@@ -37,8 +37,6 @@ One optional supplement, keyed by chapter to the schedule below:
 |Week 16| 12/7-12/9 | Inference for regression: the slope test and interval, confidence versus prediction intervals; course wrap-up & final project work | Ch. 11 | last day of classes Wed 12/9 |
 |Finals| Mon 12/14 | **Final project due** | - | First day of finals week; **HW7 due Mon 12/14** |
 
-*Revised 9/14 to match our pace. Multiple regression, logistic regression, and classification are no longer on the schedule; the chi-square and F distributions appear only where the tests that use them do. Revised 10/2: simple linear regression (the model, least squares, R², residual plots) moved up to weeks 10-11, right after joint distributions; inference for the slope follows hypothesis testing in weeks 15-16. Revised 10/21: HW6 due Mon 11/30 and HW7 due Mon 12/14; the continuity correction is no longer covered. Revised 11/4: sample variance added to week 12. Revised 11/8: the chi-square goodness-of-fit test moved up to Wed 11/25, so there is more time for the final project; bias and MSE moved into week 12; two-sample and paired t-tests follow Exam 2 and moved from HW6 to HW7.*
-
 ## Build Days
 
 Six class meetings this term are **build days**: we construct a Plinko board (a Galton board)
