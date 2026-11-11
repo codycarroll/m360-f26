@@ -30,7 +30,7 @@ One optional supplement, keyed by chapter to the schedule below:
 |Week 9| 10/21-10/23 | Independence, covariance and correlation, and the variance of a sum | Ch. 4 | **Build Day 4: Fri 10/23**; no class Mon 10/19 (Fall Break) |
 |Week 10| 10/26-10/30 | Simple linear regression, part I: the model, least squares, and interpreting the slope and intercept | Ch. 11 | **Build Day 5: Fri 10/30** |
 |Week 11| 11/2-11/6 | R² and residual plots; random samples and sums of independent random variables; the law of large numbers; the central limit theorem (the board is a physical CLT) | Ch. 8, 11 | **Build Day 6: Fri 11/6, board complete** |
-|Week 12| 11/9-11/13 | The sample variance and its distribution; simulation with the notebook; method of moments; maximum likelihood; bias, variance, and mean squared error | Ch. 8-9 | **HW4 due Mon 11/9** |
+|Week 12| 11/9-11/13 | The sample variance and its distribution; simulation with the notebook; method of moments; maximum likelihood; bias, variance, and mean squared error | Ch. 8-9 | **HW4 due Mon 11/9**; **Build Day 7: Fri 11/13, final build day** |
 |Week 13| 11/16-11/20 | Confidence intervals: z- and t-intervals and intervals for proportions; hypothesis testing: the logic of a test, test statistics and p-values, errors and power | Ch. 9-10 | **HW5 due Fri 11/20** |
 |Week 14| 11/23-11/25 | Hypothesis testing, continued: one- and two-sided alternatives, the one-sample t-test; **the chi-square goodness-of-fit test (Wed 11/25)**, run on the class's own drop data | Ch. 10 | no class Fri 11/27 (Thanksgiving) |
 |Week 15| 11/30-12/4 | Two-sample and paired t-tests | Ch. 10 | **Exam 2 review: Mon 11/30**; **Midterm Exam 2: Wed 12/2** (coverage announced in class); **HW6 due Mon 11/30** |
@@ -39,7 +39,7 @@ One optional supplement, keyed by chapter to the schedule below:
 
 ## Build Days
 
-Six class meetings this term are **build days**: we construct a Plinko board (a Galton board)
+Seven class meetings this term are **build days**: we construct a Plinko board (a Galton board)
 from scratch, 45.5" wide on a rolling base, with 2.5" pucks on a 4" peg pitch. Each build day
 after the first runs as five parallel stations, one per team of six, with a task sheet at each station.
 That board is then the source of the data for the final project. Build days
