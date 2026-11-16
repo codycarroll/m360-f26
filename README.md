@@ -32,8 +32,8 @@ One optional supplement, keyed by chapter to the schedule below:
 |Week 11| 11/2-11/6 | R² and residual plots; random samples and sums of independent random variables; the law of large numbers; the central limit theorem (the board is a physical CLT) | Ch. 8, 11 | **Build Day 6: Fri 11/6, board complete** |
 |Week 12| 11/9-11/13 | The sample variance and its distribution; simulation with the notebook; method of moments; maximum likelihood; bias, variance, and mean squared error | Ch. 8-9 | **HW4 due Mon 11/9**; **Build Day 7: Fri 11/13, final build day** |
 |Week 13| 11/16-11/20 | Confidence intervals: z- and t-intervals and intervals for proportions; hypothesis testing: the logic of a test, test statistics and p-values, errors and power | Ch. 9-10 | **HW5 due Fri 11/20** |
-|Week 14| 11/23-11/25 | Hypothesis testing, continued: one- and two-sided alternatives, the one-sample t-test | Ch. 10 | **Exam 2 review: Wed 11/25**; remote class Mon 11/23 and Wed 11/25; no class Fri 11/27 (Thanksgiving) |
-|Week 15| 11/30-12/4 | **The chi-square goodness-of-fit test (Mon 11/30)**, run on the class's own drop data; two-sample and paired t-tests | Ch. 10 | **Midterm Exam 2: Wed 12/2** (coverage announced in class); **HW6 due Mon 11/30** |
+|Week 14| 11/23-11/25 | Hypothesis testing, continued: one- and two-sided alternatives, the one-sample t-test; **the chi-square goodness-of-fit test (Wed 11/25)**, run on the class's own drop data | Ch. 10 | remote class Mon 11/23 and Wed 11/25; no class Fri 11/27 (Thanksgiving) |
+|Week 15| 11/30-12/4 | Two-sample and paired t-tests | Ch. 10 | **Exam 2 review: Mon 11/30**; **Midterm Exam 2: Wed 12/2** (coverage announced in class); **HW6 due Mon 11/30** |
 |Week 16| 12/7-12/9 | Inference for regression: the slope test and interval, confidence versus prediction intervals; course wrap-up & final project work | Ch. 11 | last day of classes Wed 12/9 |
 |Finals| Mon 12/14 | **Final project due** | - | First day of finals week; **HW7 due Mon 12/14** |
 
